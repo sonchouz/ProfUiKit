@@ -69,7 +69,7 @@ afterEvaluate {
 
                 groupId = "com.github.sonchouz"
                 artifactId = "ProfUiKit"
-                version = "1.0.4"
+                version = "1.0.5"
             }
         }
     }
